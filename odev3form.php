@@ -11,7 +11,7 @@
     <form action="odev3.php" method="post">
         <input type="number" name="number"><br><br>
         <input type="submit" value="Gönder">
-    </form>
+    </form> 
     
 </body>
 </html>
